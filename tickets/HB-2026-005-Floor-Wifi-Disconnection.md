@@ -1,7 +1,7 @@
 # HB-2026-005
 ## Date Completed: September 22, 2026
 ## Priority:  Critical
-## Category: Wifi disconnection on Floor3
+## Category: Wifi disconnection on Floor 3
 
 ### Problem: 
 3rd floor internet was not working properly for about half an hour. Customer checked other floors and they were working fine. Conference rooms were out as well making multiple departments unable to work and customer service not accessing CRM.
